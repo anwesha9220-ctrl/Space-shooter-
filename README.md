@@ -37,3 +37,8 @@ The idea of this game is to control a spaceship, shoot bullets, and destroy the 
 
 This project was made as a way to practise Python programming and understand how games work. While building it, I got to explore game loops, movement, collision detection, and handling game objects using Pygame.
 
+
+<img width="597" height="469" alt="Screenshot 2026-11-02 135315" src="https://github.com/user-attachments/assets/a6813650-0468-4349-abf6-40da33d5e8c4" />
+
+<img width="596" height="461" alt="Screenshot 2026-11-02 135356" src="https://github.com/user-attachments/assets/5fd82238-a2b9-42a2-829e-c28d7ab9acef" />
+
